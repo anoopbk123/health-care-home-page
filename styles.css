@@ -43,7 +43,7 @@ nav {
 }
 .main {
   margin: 0;
-  background-image: url(https://s3-alpha-sig.figma.com/img/9f74/5426/dd397cf1354c832f018431436f991102?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Q9UOw02K5qjvyEmIKQYCldR64ICuET3t-4WRj3zC2K~Vyd55eMVTMufXLtvFjSiKvyDV73FSCcivnjdtOr~nlvAFKjx3PeFDcuC5mr36mTHOEhOHSEgOUz6jJvxKVlvntmBfFziv6L22D9Astn7E5GX3lQKgZWFEwh-pBGbWFEatNL52HroZozRlh2RzvLSt0q~8TxUbwRyRK-CqazZs3q2tORplRloOUqLFF4ZHMzKA5GXj2bqU2dhS3BCG1MZDeOgfSthNp2ZWuiErSI1WtmUukA~7Fm6E9KdFi~bsX~gcu0aqUpS-sWDX5l6mIaTn7oR5S8ugSLvc52fNXj6L9g__);
+  background-image: url(images/main-bg.jpg);
 }
 .container-main {
   padding-top: 21vh;
